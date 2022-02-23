@@ -1,4 +1,4 @@
-public class uloha_cvicenie1 {
+public class UlohaCvicenie1 {
     public static void main(String[] args){
 
     helloWord();
